@@ -1,0 +1,9 @@
+# Godot 4 generated cache / imports
+.godot/
+*.import
+export_presets.cfg
+
+# local-only capture artifacts
+shot*.png
+_cap.tscn
+_cap.gd
